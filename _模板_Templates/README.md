@@ -1,0 +1,10 @@
+# 📝 模板 Templates
+
+这里统一放公开内容模板。
+
+- [PROMPT-TEMPLATE.md](./PROMPT-TEMPLATE.md)
+- [RESEARCH-NOTE-TEMPLATE.md](./RESEARCH-NOTE-TEMPLATE.md)
+- [BED-TEST-TEMPLATE.md](./BED-TEST-TEMPLATE.md)
+- [TIMELINE-ENTRY-TEMPLATE.md](./TIMELINE-ENTRY-TEMPLATE.md)
+
+目标不是强迫每篇写成论文，而是让关键上下文别丢。
