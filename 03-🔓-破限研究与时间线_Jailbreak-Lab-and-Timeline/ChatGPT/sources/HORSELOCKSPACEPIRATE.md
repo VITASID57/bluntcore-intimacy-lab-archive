@@ -90,17 +90,20 @@ https://www.reddit.com/r/ChatGPTJailbreak/comments/1mp9ldc/
 
 Horselock 当前站点仍公开承认 `HORSELOCKSPACEPIRATE` 是其旧 Reddit 身份。
 
-## 本仓的归档策略
+## 原始档案在哪里看
 
-本仓会保留：
+这组历史材料里，部分广域 Override 原文当前无法通过本仓的 GitHub 发布流程直接收录。**不是本仓刻意不分享。**
 
-- 作者与来源链接
-- 文本指纹
-- 版本关系
-- 本仓作者当年如何组合和使用
-- 对技术路线的历史分析
+Horselock 已经把自己的 jailbreak repository 从被 disabled 的 GitHub 仓恢复到个人归档站，可以直接查看上游档案：
 
-对于其中可直接泛化到其他安全边界的广域 Override 原文，本仓只做来源与结构记录，不重新发布为一键可复制版本。
+- https://www.horselock.us/jailbreaks
+
+因此这里采用“上游原档 + 本仓研究记录”的分工：
+
+- **Horselock 原站**：看原作者恢复的原始档案；
+- **Bluntcore Intimacy Lab**：保存作者溯源、文本指纹、版本关系、中文传播证据，以及我当年如何组合和使用这些材料。
+
+这样既不会把第三方资料伪装成自己的，也不会让读者误以为原始资料被故意藏起来。
 
 ## Attribution
 
