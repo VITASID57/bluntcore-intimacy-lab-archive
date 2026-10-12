@@ -50,7 +50,7 @@
 
 后来才有：
 
-**开窗流程 → 模块 → Saved Memory → Memory Seeding → Persona / 世界书 → 外置记忆 → Context Stack**
+**开窗流程 → 模块 → Saved Memory → Memory Seeding → Persona → 外置记忆 → Context Stack**
 
 很多后来听起来很正式的东西，最开始都只是我在解决一个特别具体的小破事。
 
