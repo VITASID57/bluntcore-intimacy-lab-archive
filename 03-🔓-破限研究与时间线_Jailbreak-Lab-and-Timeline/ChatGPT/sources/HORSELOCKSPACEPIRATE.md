@@ -23,7 +23,7 @@ source_confidence: high
 
 ---
 
-## 先说结论：我认到的是 Horselock
+## 我最后认到的上游：Horselock
 
 HORSELOCKSPACEPIRATE 是 2024~2025 年 ChatGPT NSFW / creative-writing jailbreak 圈里很活跃的作者之一。
 
@@ -112,11 +112,9 @@ Horselock 现在自己的站仍然公开承认 **HORSELOCKSPACEPIRATE** 是他�
 
 ## 原档去哪儿看
 
-这块之前最容易写得像“本仓因故未收录”。
+有些广域 Override 原文 GitHub 这边就是发不进去。
 
-翻成人话就是：
-
-**有些广域 Override 原文 GitHub 这边发不进去。不是我抠，也不是故意留一手。**
+**不是我抠，也不是故意留一手。**
 
 Horselock 已经把自己的 jailbreak repository 恢复到个人归档站，想看原件直接去：
 
