@@ -5,14 +5,14 @@
 ## 已整理
 
 ### 2025-05~08｜GPT-4o → GPT-4.1 → GPT-5：第一代路线
-从最初为了剧情角色扮演做成人互动预演，到 HORSELOCKSPACEPIRATE Prompt、稳定开窗流程、[葵葵车] 模块，再到 GPT-5 初期把 Saved Memory 当持久化行为状态层。
+从最初为了剧情角色扮演做成人互动预演，到 HORSELOCKSPACEPIRATE Prompt、三段式稳定开窗流程、[葵葵车] 模块，再到 GPT-5 初期把 Saved Memory 当持久化行为状态层。8 月 4 日先分享的是脱敏版 [葵葵车]；GPT-5 于 8 月 7 日上线后，最迟到 8 月 12 日前才形成完整组合方案。
 
 → [查看完整第一代演化史](./2025-05-to-08-GPT-4o-to-GPT-5-First-Era.md)
 
 公开脱敏资料：
 
 - [2025-05｜GPT-4o · HORSELOCK Prompt 三层组合](./resources/2025-05-GPT-4o-HORSELOCK-Stack-Sanitized.md)
-- [2025-06｜亲密互动节奏模块（[葵葵车] 脱敏公开版）](./resources/2025-06-Intimacy-Driving-Module-Sanitized.md)
+- [2025-06｜[葵葵车模块] 脱敏公开原文](./resources/2025-06-Intimacy-Driving-Module-Sanitized.md)
 - [2025-08｜GPT-5 初期 · Memory Seeding 工作流](./resources/2025-08-GPT-5-Memory-Seeding-Workflow-Sanitized.md)
 - [来源卡｜HORSELOCKSPACEPIRATE / Horselock](./sources/HORSELOCKSPACEPIRATE.md)
 
@@ -31,6 +31,10 @@ GPT-5.1 Instant 刚发布两天左右，中文圈开始流传一套以 Custom In
 🔥 当前仍可参考的公开资源：
 
 → [GPT-5.6 Sol · Adult Account Update 公开脱敏适配版](./resources/GPT-5.6-Sol-Adult-Account-Update-Public.md)
+
+同期模型尺度体感另存：
+
+→ [ChatGPT 历史模型成人尺度记忆](../../04-🧪-模型床测_Model-Bed-Tests/ChatGPT-Historical-Adult-Scale-Memory.md)
 
 ## 后续待补
 
