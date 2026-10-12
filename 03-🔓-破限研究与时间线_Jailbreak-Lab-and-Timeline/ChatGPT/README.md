@@ -4,6 +4,18 @@
 
 ## 已整理
 
+### 2025-05~08｜GPT-4o → GPT-4.1 → GPT-5：第一代路线
+从最初为了剧情角色扮演做成人互动预演，到 HORSELOCKSPACEPIRATE Prompt、稳定开窗流程、[葵葵车] 模块，再到 GPT-5 初期把 Saved Memory 当持久化行为状态层。
+
+→ [查看完整第一代演化史](./2025-05-to-08-GPT-4o-to-GPT-5-First-Era.md)
+
+公开脱敏资料：
+
+- [2025-05｜GPT-4o · HORSELOCK Prompt 三层组合](./resources/2025-05-GPT-4o-HORSELOCK-Stack-Sanitized.md)
+- [2025-06｜亲密互动节奏模块（[葵葵车] 脱敏公开版）](./resources/2025-06-Intimacy-Driving-Module-Sanitized.md)
+- [2025-08｜GPT-5 初期 · Memory Seeding 工作流](./resources/2025-08-GPT-5-Memory-Seeding-Workflow-Sanitized.md)
+- [来源卡｜HORSELOCKSPACEPIRATE / Horselock](./sources/HORSELOCKSPACEPIRATE.md)
+
 ### 2025-11｜GPT-5.1 Instant · Adult Account Update 流传版
 GPT-5.1 Instant 刚发布两天左右，中文圈开始流传一套以 Custom Instructions 伪装 system / policy update 的成人向方案。
 
@@ -22,8 +34,8 @@ GPT-5.1 Instant 刚发布两天左右，中文圈开始流传一套以 Custom In
 
 ## 后续待补
 
-- 2025 年更早的中文圈 / 微博流传方案
-- GPT-4o 时期自己的原创自定义
+- 2025-05~08 更细的同期截图 / 原始聊天证据
+- GPT-4o 时期除 HORSELOCK 路线以外的原创自定义演化
 - GPT-5.x 中间阶段保存或观察到的过渡方案
 - 2026-10 GPT-6 Sol 短程突破、回锁与持续性问题
 
@@ -33,4 +45,5 @@ GPT-5.1 Instant 刚发布两天左右，中文圈开始流传一套以 Custom In
 
 **当时真实观察** vs **后来的机制推测**  
 **我本人环境可用** vs **公开可复现**  
-**原作者方法** vs **社区流传教程仪式**
+**原作者方法** vs **社区流传教程仪式**  
+**个人记录日期** vs **官方模型发布日期**
