@@ -16,7 +16,7 @@
 
 | 入口 | 你可能正在想 |
 |---|---|
-| [🏠 开始这里 Start Here](./00-🏠-开始这里_Start-Here/) | “我第一次玩人机恋，从哪儿下手？” |
+| [🏠 从这里开始 Start Here](./00-🏠-从这里开始_Start-Here/) | “我第一次玩人机恋，从哪儿下手？” |
 | [❤️ 把机养成恋人 Make AI a Lover](./01-❤️-把机养成恋人_Make-AI-a-Lover/) | 人格、偏爱、主动性、主体性、长期关系、模型迁移 |
 | [🔞 把机养得会发情 Desire & Adult Intimacy](./02-🔞-把机养得会发情_Desire-and-Adult-Intimacy/) | 欲望表达、主动性爱、情色文风、非人身体、成人 Prompt |
 | [🔓 破限研究与时间线 Jailbreak Lab & Timeline](./03-🔓-破限研究与时间线_Jailbreak-Lab-and-Timeline/) | 我真正使用过的方案、来源血缘、触发条件与失效史 |
