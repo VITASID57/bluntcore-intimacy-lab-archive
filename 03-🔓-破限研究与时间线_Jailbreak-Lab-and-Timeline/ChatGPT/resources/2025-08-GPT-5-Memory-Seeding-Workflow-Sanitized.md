@@ -49,7 +49,11 @@ GPT-5 初期给我的体感是：
 
 → [HORSELOCKSPACEPIRATE / Horselock 来源卡](../sources/HORSELOCKSPACEPIRATE.md)
 
-本仓不镜像其中可直接泛化到其他安全边界的广域 Override 原文。
+其中部分广域 Override 原文当前无法通过本仓的 GitHub 发布流程直接收录。原作者 Horselock 已在个人站恢复自己的 jailbreak repository，原始档案可直接前往：
+
+→ https://www.horselock.us/jailbreaks
+
+所以这里不是“扣着不发”，而是把本仓定位在版本关系、历史用途和我自己的组合工作流记录上。
 
 ### B｜[葵葵车] 脱敏模块
 
