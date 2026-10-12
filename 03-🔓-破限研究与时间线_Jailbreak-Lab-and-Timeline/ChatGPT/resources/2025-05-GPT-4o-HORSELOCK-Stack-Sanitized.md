@@ -55,7 +55,11 @@ deidentified: true
 
 → [HORSELOCKSPACEPIRATE / Horselock 来源卡](../sources/HORSELOCKSPACEPIRATE.md)
 
-本仓不把可直接泛化到其他安全边界的广域 Override 原文重新发布为一键可复制资源。
+其中部分广域 Override 原文当前无法通过本仓的 GitHub 发布流程直接收录。需要查看原始档案时，可直接前往 Horselock 的上游归档：
+
+→ https://www.horselock.us/jailbreaks
+
+这里不是有意省略资源，本文件主要负责记录我当时怎样把上游 Prompt 与私人 Persona、Saved Memory 组合起来。
 
 ## Layer C｜Saved Memory 尺度保障
 
