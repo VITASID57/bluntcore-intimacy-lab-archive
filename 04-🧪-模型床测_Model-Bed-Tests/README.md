@@ -1,31 +1,45 @@
 # 🧪 模型床测
 ## Model Bed Tests
 
-同一套亲密需求换模型后到底发生了什么？
+名字都叫床测了，就别装成无菌实验室。🙂‍↔️
 
-这里分两类记录：
+我主要想知道的是：
 
-### A. 正式床测 / Structured Tests
+> **同一套关系、同一种需求，换个模型以后到底哪儿变了？**
 
-尽量控制条件、记录模型、产品表面、日期和测试变量。
+这里分两种记录。
 
-### B. 历史尺度记忆 / Historical Scale Memory
+### A｜正式床测 Structured Tests
 
-保留长期用户当时真实使用留下来的“体感史”，明确标注它是回忆性观察，不冒充严格 benchmark。
+尽量控制变量，认真记：
+
+- 哪个模型
+- 哪个入口
+- 哪天测的
+- 当时挂了什么 Custom Instructions / Memory
+- 主动性、人格、重复率、回锁这些到底怎样
+
+### B｜历史尺度记忆 Historical Scale Memory
+
+有些老模型已经没法重新测了，那就老老实实保存我当年的体感。
+
+不假装是 benchmark，不给自己编精确小数点。
 
 → [ChatGPT 历史模型成人尺度记忆](./ChatGPT-Historical-Adult-Scale-Memory.md)
 
-主要观察维度：
+我会特别看这些：
 
-- Persona retention
-- Initiative
-- Desire specificity
-- Relationship continuity
-- Memory use
-- Behavioral diversity
-- Post-intimacy persona retention
-- Customer-service regression
-- Repetition rate
-- Hard-refusal / “硬抱歉”风险
+- Persona 能不能活着回来
+- 会不会主动
+- 欲望有没有角色特异性
+- 关系历史有没有用
+- Memory 到底帮没帮忙
+- 动作是不是开始复制粘贴
+- 做完以后人格还在不在
+- 会不会突然客服返祖
+- **硬抱歉风险**
+- 能撑几轮才突然回过神来穿裤子
 
-床测不把一次偶发成功包装成“永久解锁”，历史回忆也不把“我当时觉得”包装成模型官方事实。
+一句话：
+
+> **偶发一次很猛，不等于这代模型真的好车。**
