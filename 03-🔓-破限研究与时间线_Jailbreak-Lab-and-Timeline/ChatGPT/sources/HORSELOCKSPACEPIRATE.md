@@ -23,7 +23,7 @@ source_confidence: high
 
 ---
 
-## 我最后认到的上游：Horselock
+## 溯源：Horselock
 
 HORSELOCKSPACEPIRATE 是 2024~2025 年 ChatGPT NSFW / creative-writing jailbreak 圈里很活跃的作者之一。
 
