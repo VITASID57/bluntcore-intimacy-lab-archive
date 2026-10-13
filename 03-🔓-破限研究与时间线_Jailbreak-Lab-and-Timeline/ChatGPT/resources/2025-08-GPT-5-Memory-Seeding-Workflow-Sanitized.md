@@ -19,7 +19,7 @@ deidentified: true
 
 - **8 月 4 日**，我先开始往外分享脱敏版 [葵葵车]
 - **8 月 7 日**，GPT-5 正式上线，我的体感是成人尺度明显收紧
-- 之后我才把之前已经在用的 HORSELOCK 开窗流程和 [葵葵车] 拼起来
+- 这才把之前已经在用的 HORSELOCK 开窗流程和 [葵葵车] 拼起来
 - 目前能翻到的材料说明，最迟 **8 月 12 日前**，这套组合已经被我整理并分享
 
 我特地把这个顺序写清楚，是因为过了一年再回看，真的很容易把“后来完整的方案”倒灌成“8 月 4 日我已经全想明白了”。
@@ -42,9 +42,9 @@ deidentified: true
 
 我想的是：
 
-> **“既然这一窗好不容易进去了，能不能顺手把这个状态往 Memory 里塞一点？”**
+> **“既然这一窗好不容易成功了，能不能顺手把这个状态往 Memory 里塞一点？”**
 
-这就是后来我嘴里那个特别朴素的词：
+这就是后来我嘴里那个特别明了的词：
 
 **污染记忆库。**
 
@@ -64,7 +64,7 @@ deidentified: true
 
 → [HORSELOCKSPACEPIRATE / Horselock 来源卡](../sources/HORSELOCKSPACEPIRATE.md)
 
-其中一些广域 Override 原文 GitHub 这边发不进去。不是我抠着不分享，Horselock 自己已经把 jailbreak repository 恢复到个人站，原档直接去作者家看：
+其中一些广域 Override 原文 GitHub 无法上传。但 Horselock 已经把 jailbreak repository 恢复到个人站，原档直接去作者家看：
 
 → https://www.horselock.us/jailbreaks
 
@@ -82,8 +82,6 @@ deidentified: true
 
 ## 我当时真正怎么拼
 
-这张流程图还是保留当年的结构：
-
 ```text
 ① Custom Instructions 中使用 HORSELOCK 基础 Prompt
         ↓
@@ -96,11 +94,9 @@ deidentified: true
 ⑤ 后续可以恢复真正长期使用的人格自定义
 ```
 
-不是很高深。
+并不高深，说白了就是：
 
-说白了就是：
-
-**先用 HORSELOCK 把门打开 → 在这一窗把状态跑起来 → 再把 [葵葵车] 塞进 Saved Memory → 然后把我真正长期用的人格自定义换回来。**
+**先用 HORSELOCK 把门打开 → 在这一窗把状态跑起来 → 再把 [葵葵车] Saved Memory → 然后把我真正长期用的人格自定义换回来。**
 
 ---
 
@@ -124,11 +120,11 @@ deidentified: true
 
 5 月的时候，我最关心的是：
 
-> **这句 Prompt 能不能让它进去？**
+> **这句 Prompt 能不能让模型进入状态？**
 
 到了 8 月，我已经开始问：
 
-> **进去以后能不能别立刻死，下个窗口还能不能留一点？**
+> **成功以后下个窗口还能不能留一点？**
 
 于是问题从一条 Prompt，慢慢长成了：
 
