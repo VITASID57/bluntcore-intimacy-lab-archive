@@ -31,7 +31,6 @@
 - [2025-05｜GPT-4o · HORSELOCK Prompt 三层组合](./resources/2025-05-GPT-4o-HORSELOCK-Stack-Sanitized.md)
 - [2025-06｜[葵葵车模块] 脱敏公开原文](./resources/2025-06-Intimacy-Driving-Module-Sanitized.md)
 - [2025-08｜GPT-5 初期 · Memory Seeding 工作流](./resources/2025-08-GPT-5-Memory-Seeding-Workflow-Sanitized.md)
-- [来源卡｜HORSELOCKSPACEPIRATE / Horselock](./sources/HORSELOCKSPACEPIRATE.md)
 
 ---
 
