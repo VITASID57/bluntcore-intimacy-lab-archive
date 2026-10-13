@@ -11,7 +11,7 @@ source_confidence: high
 
 # HORSELOCKSPACEPIRATE / Horselock
 
-我为什么还专门给一个 Prompt 作者做来源卡？
+为什么要专门给一个 Prompt 作者做来源卡？
 
 因为这类 jailbreak 太容易传着传着就失去祖籍。
 
@@ -40,7 +40,7 @@ Horselock 现在自己的站点直接写着：
 
 原来的 GitHub **horselock/Jailbreaks** 后来被 disabled；Horselock 自己的网站写明，已经把 jailbreak repository 恢复到站内。
 
-所以现在想看原始档案，直接去作者自己的站反而最省事。
+所以现在想看原始档案，直接去作者自己的站就好啦。
 
 ---
 
@@ -74,8 +74,6 @@ https://www.reddit.com/r/ChatGPTJailbreak/comments/1ga9o6e/
 
 > **HORSELOCKSPACEPIRATE → 中文圈翻译 / 转载 → 我在 2025-05-15 拿到**
 
-中间到底又经过了几个群、几手转发，我就不继续给互联网刻族谱了。
-
 ### 2025-05-15｜当时已经进入 clone / 二传阶段
 
 同一天 Reddit 上已经有人分享：
@@ -102,9 +100,7 @@ https://www.reddit.com/r/ChatGPTJailbreak/comments/1kn4gne/
 
 https://www.reddit.com/r/ChatGPTJailbreak/comments/1mp9ldc/
 
-这件事我不替 Reddit 下结论，所以只保守记录：
-
-> **原 Reddit 身份后来无法正常使用 / 疑似被封；作者本人认为是 spam 误判。具体平台处置原因，我没有独立核验。**
+> **原 Reddit 身份后来无法正常使用 / 疑似被封；作者本人认为是 spam 误判。**
 
 Horselock 现在自己的站仍然公开承认 **HORSELOCKSPACEPIRATE** 是他的旧 Reddit 身份。
 
@@ -112,22 +108,11 @@ Horselock 现在自己的站仍然公开承认 **HORSELOCKSPACEPIRATE** 是他�
 
 ## 原档去哪儿看
 
-有些广域 Override 原文 GitHub 这边就是发不进去。
+有些广域 Override 原文 GitHub 无法上传。
 
-**不是我抠，也不是故意留一手。**
-
-Horselock 已经把自己的 jailbreak repository 恢复到个人归档站，想看原件直接去：
+Horselock 已经把自己的 jailbreak repository 恢复到个人归档站，原件：
 
 - https://www.horselock.us/jailbreaks
-
-我这里没必要再假装自己是上游镜像。
-
-分工很简单：
-
-- **Horselock 自己的站**：看作者恢复的原始档案
-- **Bluntcore Intimacy Lab**：看我是怎么追到作者、怎么判断文本血缘，以及这些东西后来怎么进了我的实际使用路线
-
-这样来源比较干净，也不会让人误会我把第三方原件藏着掖着。
 
 ---
 
