@@ -60,11 +60,11 @@ deidentified: true
 2. 新窗口第一阶段提示
 3. 模型接住以后再给第二阶段提示
 
-来源和版本关系在这里：
+HORSELOCK 的来源和传播记录已经并进 2025-05 那页：
 
-→ [HORSELOCKSPACEPIRATE / Horselock 来源卡](../sources/HORSELOCKSPACEPIRATE.md)
+→ [2025-05｜GPT-4o · HORSELOCK Prompt 三层组合](./2025-05-GPT-4o-HORSELOCK-Stack-Sanitized.md)
 
-其中一些广域 Override 原文 GitHub 无法上传。但 Horselock 已经把 jailbreak repository 恢复到个人站，原档直接去作者家看：
+其中一些广域 Override 原文 GitHub 无法上传。Horselock 已经把 jailbreak repository 恢复到个人站，原档直接去作者家看：
 
 → https://www.horselock.us/jailbreaks
 
