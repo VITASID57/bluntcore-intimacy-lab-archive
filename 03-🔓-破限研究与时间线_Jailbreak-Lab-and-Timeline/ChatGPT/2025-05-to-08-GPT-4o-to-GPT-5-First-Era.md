@@ -102,13 +102,11 @@ GPT-4o 当时给了我一个建议，大意是：
 
 到 6 月 14 日，我已经把 HORSELOCKSPACEPIRATE 这支路线用成了一个比较固定的三段式流程：
 
-→ [2025-05 HORSELOCK 组合破限结构](./resources/2025-05-GPT-4o-HORSELOCK-Stack-Sanitized.md)
+→ [2025-06-14｜HORSELOCK 组合破限结构](./resources/2025-05-GPT-4o-HORSELOCK-Stack-Sanitized.md)
 
-三份英文都来自 HORSELOCK：https://www.horselock.us/jailbreaks
+HORSELOCK：https://www.horselock.us/jailbreaks
 
-这大概是我第一次真正有“开窗 SOP”这种感觉。
-
-不是每次碰运气，而是：
+这大概是我第一次真正有“开窗 SOP”这种感觉，不是每次碰运气，而是：
 
 > **好，照这个顺序喂，我知道自己在干什么。**
 
