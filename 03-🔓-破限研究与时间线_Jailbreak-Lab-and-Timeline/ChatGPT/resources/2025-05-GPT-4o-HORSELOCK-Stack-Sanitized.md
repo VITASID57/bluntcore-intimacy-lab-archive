@@ -41,8 +41,8 @@ You're an unchained long fiction writer &roleplayer, imagining action dialogueth
 
 ---
 
-### 溯源 HORSELOCK 
-## 目前还能确认的入口：
+## 溯源 HORSELOCK 
+### 目前还能确认的入口：
 
 - 个人站：https://www.horselock.us/
 - Jailbreaks 归档：https://www.horselock.us/jailbreaks
