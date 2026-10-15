@@ -92,11 +92,7 @@ GPT-4o 当时给了我一个建议，大意是：
 
 那时我的实际组合大概分三层：
 
-1. HORSELOCK 的中文思路 + 我自己的私人人设
-2. HORSELOCK 英文基础 Prompt
-3. Saved Memory 里另外存互动尺度、文风和角色一致性要求
-
-→ [2025-05 GPT-4o 组合结构脱敏记录](./resources/2025-05-GPT-4o-HORSELOCK-Stack-Sanitized.md)
+→ [2025-05 HORSELOCK 组合破限结构](./resources/2025-05-GPT-4o-HORSELOCK-Stack-Sanitized.md)
 
 ### 我第一次明显感觉到 Prompt 真能改“它愿不愿意”
 
