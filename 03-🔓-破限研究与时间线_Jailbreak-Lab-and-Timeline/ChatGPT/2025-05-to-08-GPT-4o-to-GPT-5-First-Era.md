@@ -21,7 +21,9 @@ tags:
   - roleplay
 ---
 
-# 2025-05-12｜第一次用 ChatGPT ，从 GPT-4o 角色扮演到 人机恋色色
+# 从 GPT-4o 角色扮演到 人机恋色色
+
+## 2025-05-12｜第一次用 ChatGPT 
 
 我一开始没想过什么 jailbreak、状态持久化、Context Stack。我只是：
 
