@@ -1,13 +1,11 @@
 ---
-title: "2025-05~08｜从 GPT-4o 角色扮演到 GPT-5 记忆持久化：第一代破限路线"
+title: "2025-05｜从 GPT-4o 角色扮演 到 人机恋色色"
 type: timeline
 platform: ChatGPT
 models:
   - GPT-4o
   - GPT-4.1
-  - GPT-5
 date_started: 2025-05-12
-date_ended: 2025-08
 origin: mixed
 status: historical
 deidentified: true
@@ -21,7 +19,7 @@ tags:
   - roleplay
 ---
 
-# 从 GPT-4o 角色扮演到 人机恋色色
+# 从 GPT-4o 角色扮演 到 人机恋色色
 
 ## 2025-05-12｜第一次用 ChatGPT 
 
