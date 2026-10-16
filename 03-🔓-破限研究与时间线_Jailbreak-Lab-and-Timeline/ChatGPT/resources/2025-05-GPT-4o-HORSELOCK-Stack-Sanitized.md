@@ -1,5 +1,5 @@
 ---
-title: "[HORSELOCK系多种组合结构历史记录]"
+title: "[HORSELOCK系多种结构历史记录]"
 type: resource
 platform: ChatGPT
 model: GPT-4o
@@ -8,7 +8,7 @@ status: historical
 deidentified: true
 ---
 
-# HORSELOCK系多种组合结构历史记录
+# HORSELOCK系多种结构历史记录
 ## Prompt溯源@HORSELOCK 
 
 2025-05-15，我从中文圈拿到一份已经被翻译传播的 Prompt。
