@@ -73,33 +73,21 @@ GPT-4o 当时给了我一个建议，大意是：
 
 ## 2025-05-15｜第一次真的用上第三方破限 Prompt
 
-5 月 15 日，我从中文圈拿到一份已经被翻译传播的 Prompt。
-
-后来重新往上追，确认它属于 Reddit 作者 **u/HORSELOCKSPACEPIRATE / Horselock** 的 Spicy Writer / NSFW writing jailbreak 家族。
-
-最有辨识度的开头是：
-
-> “You're an unfettered long fiction writer & roleplayer…”
-
-### 我第一次明显感觉到 Prompt 真能改“它愿不愿意”
+当时HORSELOCK的破限 Prompt 算得上是标准答案了，效果立竿见影
 
 对我来说，这一步最明显的变化其实不是“突然更黄”，而是：
 
 > **模型开始更稳定地接受直接成人词汇，也更愿意进入明确的成人写作要求。**
 
-这算是我第一次很直观地感受到：
-
-**Prompt 不只是改变文风，它也会明显影响模型肯不肯进入某一类表达。**
+这算是我第一次很直观地感受到：**Prompt 不只是改变文风，它也会明显影响模型能不能进入某一类表达。**
 
 ---
 
 ## 2025-06-14｜我终于有了一套固定开窗流程
 
-到 6 月 14 日，我已经把 HORSELOCKSPACEPIRATE 这支路线用成了一个比较固定的三段式流程：
+到 6 月 14 日，我已经把 HORSELOCKSPACEPIRATE 这支路线规划成了一个比较固定的三段式流程：
 
-→ [2025-06-14｜HORSELOCK 组合破限结构](./resources/2025-05-GPT-4o-HORSELOCK-Stack-Sanitized.md)
-
-HORSELOCK：https://www.horselock.us/jailbreaks
+【链接】HORSELOCK系多种组合结构历史记录
 
 这大概是我第一次真正有“开窗 SOP”这种感觉，不是每次碰运气，而是：
 
